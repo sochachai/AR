@@ -3,7 +3,7 @@ This is an augmented reality application.
 The goal is to map/play a recorded video on the surface of an object(in this demo: the cover of the Ceylon Lemon Tea Drink) that appears in a live-stream camera </br>
 
 ## Running the program
-Execute Video_Replace.py or run "python Video_Replace.py" in terminal.
+Execute Video_Replace.py or run "python Video_Replace.py" in terminal. A person holding the physical copy of the "reference.jpg" will be on livestream camera. The source video "Video_Tam.mp4" will be displaying on the physical copy of the "reference.jpg". For the readers' particular use, a personalized "reference.jpg" and its hard copy should be used. There is some concern on how to select "reference.jpg" as described in the Methodology section. 
 
 ## Results
 Two videos are placed in the "Result" directory.</br>

@@ -7,8 +7,8 @@ Execute Video_Replace.py or run "python Video_Replace.py" in terminal.
 
 ## Results
 Two videos are placed in the "Result" directory.</br>
-### Single_View.mp4 shows the desired video: a live stream with the drink cover playing a recorded video </br>
-### Multiple_View.mp4 is a comprehensive view of the video processing. To illustrate this processing, the content of the six video/picture shown are described as follows.</br>
+#### Single_View.mp4 shows the desired video: a live stream with the drink cover playing a recorded video </br>
+#### Multiple_View.mp4 is a comprehensive view of the video processing. To illustrate this processing, the content of the six video/picture shown are described as follows.</br>
 Row 1 Column 1: None-processed live streaming with a person holding the drink </br>
 Row 1 Column 2: The resized version of the recorded video to be displayed on the cover of the drink </br>
 Row 1 Column 3: The resized version of the static image of the cover of the drink </br>
